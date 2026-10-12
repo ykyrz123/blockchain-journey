@@ -27,3 +27,5 @@ for (let i = 0; i < users.length; i++) {
     };
     
 };
+
+console.log("Day10： I am learning Git!");
