@@ -1,0 +1,21 @@
+{
+  "name": "blockchain-journey",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day11.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykyrz123/blockchain-journey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykyrz123/blockchain-journey/issues"
+  },
+  "homepage": "https://github.com/ykyrz123/blockchain-journey#readme"
+}
